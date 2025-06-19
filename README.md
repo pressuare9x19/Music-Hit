@@ -1,2 +1,2 @@
 # Music-Hit
-GOD
+Music hit
